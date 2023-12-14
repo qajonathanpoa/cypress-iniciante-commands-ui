@@ -1,6 +1,6 @@
 # Projeto de testes aplicação qazando automation pratice utilizando commands para organização do projeto!
 
-Projeto para realização de testes E2E, com Cypress e JavaScript (focado em testes de FRONT e API)
+Projeto para realização de testes E2E, com Cypress e JavaScript (focado em testes de FRONT)
 
 ## Pré-requisitos:
 - [NodeJS](https://nodejs.org/en/download/ "NodeJS")
